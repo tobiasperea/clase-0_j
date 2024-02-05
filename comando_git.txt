@@ -1,0 +1,3 @@
+git init =inicializa un repositorio o lo reinicia.
+git status = obtengo informacion del repostitorio.
+git add = agrega archivos al area del stage.
